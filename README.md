@@ -26,6 +26,7 @@
 - [Cassandra](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 - [TiDB](https://www.pingcap.com/tidb) - TiDB is a full open-source MySQL _compatible_ distributed relational "NewSQL" database written in Go and Rust. Offering support for both on-premise and cloud deployments with a non-blocking DDL.
 - [Greenplum](https://greenplum.org) - Greenplum is an MPP (massively parallel processing / multi-node) version of PostgreSQL, for analytic workloads. It lags behind upstream PostgreSQL versions, based on v9.4 as of June 2023.
+- [RowShield](https://rowshield.dev) - Probes a deployed Supabase app for reachable and exposed data, then monitors connected projects for RLS and schema drift.
 
 ## NoSQL
 
